@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="MyScript.Atk.MathWidget" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="MyScript.Atk.MathWidget">
+				<NamedResource name="MyScript.Atk.MathWidget.xr.xml" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/MyScript.Atk.MathWidget.xr.xml">
+					<Candidate type="Path">
+						<Value>MyScript.Atk.MathWidget\MyScript.Atk.MathWidget.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Animations">
+					<NamedResource name="AnimatedControl.xbf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Animations/AnimatedControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimatedObject.xbf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Animations/AnimatedObject.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnimationTemplates.xbf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Animations/AnimationTemplates.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Fonts">
+					<NamedResource name="STIXGeneral.ttf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Fonts/STIXGeneral.ttf">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.MathWidget\Fonts\STIXGeneral.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="STIXSizOneSymBol.otf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Fonts/STIXSizOneSymBol.otf">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.MathWidget\Fonts\STIXSizOneSymBol.otf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="STIXSizThreeSymBol.otf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Fonts/STIXSizThreeSymBol.otf">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.MathWidget\Fonts\STIXSizThreeSymBol.otf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="STIXSizTwoSymBol.otf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Fonts/STIXSizTwoSymBol.otf">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.MathWidget\Fonts\STIXSizTwoSymBol.otf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Styles">
+					<NamedResource name="style.css" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Styles/style.css">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.MathWidget\Styles\style.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TemplateStyle.css" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Styles/TemplateStyle.css">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.MathWidget\Styles\TemplateStyle.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://MyScript.Atk.MathWidget/Files/MyScript.Atk.MathWidget/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

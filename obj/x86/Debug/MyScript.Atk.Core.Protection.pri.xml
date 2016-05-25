@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="MyScript.Atk.Core.Protection" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="MyScript.Atk.Core.Protection">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="ATKCoreRT_Protection.rd.xml" uri="ms-resource://MyScript.Atk.Core.Protection/Files/MyScript.Atk.Core.Protection/Properties/ATKCoreRT_Protection.rd.xml">
+						<Candidate type="Path">
+							<Value>MyScript.Atk.Core.Protection\Properties\ATKCoreRT_Protection.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

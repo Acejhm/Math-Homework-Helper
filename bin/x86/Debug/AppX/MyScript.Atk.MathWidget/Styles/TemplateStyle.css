@@ -1,0 +1,41 @@
+stroke
+{
+    -myscript-pen-width: #inkThickness;
+    color: #inkColor;
+    
+    /* Workaround */
+    font-family: #font;
+}
+
+glyph
+{
+    font-family: #font;
+    color: #textColor;
+}
+
+.regularstyle
+{
+  font-style: regular;
+  font-family: STIXGeneral;
+}
+
+.transientstyle
+{
+    color: #transientTextColor;
+}
+
+.invisiblestyle
+{
+    color: #00000000;
+}
+
+.temporarystyle
+{
+  color: #44aadfff;
+}
+
+.italicstyle
+{
+    font-family: #font;
+    font-style:italic;
+}

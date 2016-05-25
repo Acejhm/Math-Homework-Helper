@@ -1,0 +1,39 @@
+stroke
+{
+  color: #4b5775ff;
+  -myscript-pen-width: 0.8;
+}
+
+glyph
+{
+  color: #4b5775ff;
+  font-family: STIXGeneral;
+}
+
+.regularstyle
+{
+  font-style: regular;
+  font-family: STIXGeneral;
+}
+
+
+.italicstyle
+{
+  font-style: italic;
+  font-family: STIXGeneral;
+}
+
+.transientstyle
+{
+  color: #a8a8a8ff;
+}
+
+.invisiblestyle
+{
+  color: #00000000;
+}
+
+.temporarystyle
+{
+  color: #44aadfff;
+}

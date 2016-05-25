@@ -1,0 +1,1 @@
+H:\Programming\IDE's and Engines\Visual Studio\Projects\Math Homework Helper\Math Homework Helper.csproj;x86
